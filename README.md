@@ -1,3 +1,21 @@
-# Askisi stin biopliroforiki Ασκηση στην Βιοπληροφορική
+# Exercise 1
 
-This is an exercise in bioinfo 2020 uoc
+This project is about ... 
+
+## Download data
+
+
+## Quality control
+
+```bash
+for file in $(cat mylist)
+do
+	fastqc $file
+done
+```
+
+## Trimming 
+
+## Clean data
+
+## Mapping
